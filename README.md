@@ -1,6 +1,5 @@
 - 👋 Hi, I’m <a target="_blank" href="https://bit.ly/060998">Mohd Nadeem Ashraf</a>
-- 👀 Web Developer in love with ReactJS
-- 🌱 My strength is Fron-End but I'm comfortable working as a Full-Stack Developer as well
+- 👀 My strength is Fron-End but I'm comfortable working as a Full-Stack Developer as well
 - 💞️ I’m open to collaborate on projects as a Front-End Developer (doesn't matter if its Vanilla JS or ReactJS)...
 - 📫 How to reach me ? You can message me on <a target="_blank" href="https://www.linkedin.com/in/mohd-nadeem-ashraf-112675204/">LinkedIn</a>
 
