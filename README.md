@@ -1,6 +1,7 @@
-- 👋 Hi, I’m <a target="_blank" href="https://bit.ly/060998">Mohd Nadeem Ashraf</a> currently working as an FDE-3 for a startup called AVRL
-- 👀 My strength is Fron-End but I'm comfortable working as a Full-Stack Developer as well and my experties include JavaScript, ReactJS, NodeJS & ExpressJS
-- 💞️ I’m open to collaborate on projects (doesn't matter if its Vanilla JS or ReactJS)...
+- 👋 Hi, I’m <a target="_blank" href="https://bit.ly/060998">Nadeem Ashraf</a> currently working as an FDE-3 at AVRL
+- 👀 My strength is Fron-End but I'm comfortable working as a Full-Stack Developer as well and my experties include MERN Stack. Im also familiar with Next.js and GraphQL.
+- 🌟 In  my free time I learn Game Development and I am pretty familiar with Godot Game Engine. 
+- 💞️ I’m open to collaborate on projects.
 - 📫 How to reach me ? You can message me on <a target="_blank" href="https://www.linkedin.com/in/mohd-nadeem-ashraf-112675204/">LinkedIn</a>
 
 <!---
