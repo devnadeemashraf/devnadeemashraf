@@ -4,18 +4,16 @@
 [![GitHub Nadeem Ashraf](https://img.shields.io/github/followers/devnadeemashraf?label=follow&style=social)](https://github.com/devnadeemashraf)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Software Developer at AVRL, working from home on RPAs using JavaScript. \
-💻 &nbsp; I'm currently learning Full Stack Development using TypeScript and also exploring Go for Backend Specifically. I also had been into Rust and loved the language and would definitely consider learning it in depth in future.\
+💡 &nbsp; I'm a Software Engineer, Currently working as a Client Solutions Advisor at AVRL, remotely from India. \
+💻 &nbsp; With proficiency in JavaScript and TypeScript, my day is spent writing React Code and I'm currently interested in Learning Native Android Development and I am exploring Kotlin for that purpose.\
 🎓 &nbsp; I graduated form University of Lucknow (B.Tech, Electronics and Communication Engineering, Batch of 2017).\
-🌱 &nbsp; I'm also interested in learning about Aritifical Intelligence and would love to explore this field once I get a bit more stable in my current domain.\
-✍️ &nbsp; In my free time, I often do cooking and also love to sleep.\
+✍️ &nbsp; You'd find me cooking in my free times and also, convincing my Dad to get us a Cat. I love Cats, Felines in general. I am a Feline person 😺\
 💬 &nbsp; Feel free to reach out to me regarding anything!
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=go)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -34,7 +32,6 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/nadeemashraf06/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:official.nadeemashraf@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a target="_blank" href="https://nadeemashraf.dev"><img src="https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=world"/></a> &nbsp;
 
 
 
