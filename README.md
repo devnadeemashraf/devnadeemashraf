@@ -7,7 +7,7 @@
 💡 &nbsp; I'm a Software Engineer, Currently working as a Client Solutions Advisor at AVRL, remotely from India. \
 💻 &nbsp; With proficiency in JavaScript and TypeScript, my day is spent writing React Code and I'm currently interested in Learning Native Android Development and I am exploring Kotlin for that purpose.\
 🎓 &nbsp; I graduated form University of Lucknow (B.Tech, Electronics and Communication Engineering, Batch of 2017).\
-✍️ &nbsp; You'd find me cooking in my free times and also, convincing my Dad to get us a Cat. I love Cats, Felines in general. I am a Feline person 😺\
+✍️ &nbsp; You'd find me cooking in my free times and also, convincing my family to have a pet Cat. I love Cats, Felines in general. I am a Feline person 😺\
 💬 &nbsp; Feel free to reach out to me regarding anything!
 
 ### 🛠 &nbsp;Tech Stack
