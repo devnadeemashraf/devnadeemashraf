@@ -4,22 +4,21 @@
 [![GitHub Nadeem Ashraf](https://img.shields.io/github/followers/devnadeemashraf?label=follow&style=social)](https://github.com/devnadeemashraf)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Software Engineer, Currently working as a Client Solutions Advisor at AVRL, remotely from India. \
-💻 &nbsp; With proficiency in JavaScript and TypeScript, my day is spent writing React Code, handling 3PLs and Carriers and I'm currently interested in Learning Backend Development and I am exploring GoLang for that purpose.\
+💡 &nbsp; A Senior Software Engineer working at a Startup, remotely from India. \
+💻 &nbsp; With proficiency in JavaScript and TypeScript, my day is spent writing React Code, handling 3PLs and Carriers and I'm currently interested in expanding my expertise in the Frontend.\
 🎓 &nbsp; I graduated form University of Lucknow (B.Tech, Electronics and Communication Engineering, Batch of 2017).\
-✍️ &nbsp; You'd find me cooking in my free times and also, convincing my family to have a pet Cat. I love Cats, Felines in general 😺\
+✍️ &nbsp; You'd find me cooking in my free times and also, convincing my family to have a pet Cat. I love Cats, Felines in general😺\
 💬 &nbsp; Feel free to reach out to me regarding anything!
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next-js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
