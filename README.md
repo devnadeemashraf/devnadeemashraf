@@ -1,39 +1,66 @@
-![Nadeem Ashraf](https://github.com/devnadeemashraf/NadeemAsh/assets/67672184/d929c542-3f1b-4d90-8a3e-6896c59f3159)
+<!-- Profile Header Image -->
+<p align="center">
+  <img src="https://github.com/devnadeemashraf/NadeemAsh/assets/67672184/d929c542-3f1b-4d90-8a3e-6896c59f3159" alt="Nadeem Ashraf Header" width="100%" />
+</p>
 
-![profile count](https://komarev.com/ghpvc/?username=devnadeemashraf&color=red)&nbsp;
-[![GitHub Nadeem Ashraf](https://img.shields.io/github/followers/devnadeemashraf?label=follow&style=social)](https://github.com/devnadeemashraf)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devnadeemashraf&color=red" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/devnadeemashraf?tab=followers">
+    <img src="https://img.shields.io/github/followers/devnadeemashraf?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-💡 &nbsp; A Senior Software Engineer working at a Startup, remotely from India. \
-💻 &nbsp; With proficiency in JavaScript and TypeScript, my day is spent writing React Code, handling 3PLs and Carriers and I'm currently interested in expanding my expertise in the Frontend.\
-🎓 &nbsp; I graduated form University of Lucknow (B.Tech, Electronics and Communication Engineering, Batch of 2017).\
-✍️ &nbsp; You'd find me cooking in my free times and also, convincing my family to have a pet Cat. I love Cats, Felines in general😺\
-💬 &nbsp; Feel free to reach out to me regarding anything!
+---
 
-### 🛠 &nbsp;Tech Stack
+### 👋 Hello, I'm Nadeem
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&)&nbsp;
+I'm a **Senior Software Engineer - Frontend** working remotely from India 🌏.  
+Currently focused on **Full Stack Engineering**, especially with **React**, **Tailwind**, **Express JS** and **TypeScript**, and always exploring ways to build scalable interfaces & applications.
 
-### 📫 &nbsp; How to reach me:
+- 🛠️ Working with **3PLs, Carriers**, and modern logistics platforms
+- 📚 Always learning — right now diving deeper into **Design Systems** and **Frontend Architectures** along with **Backend Development**
+- 🧑‍🎓 B.Tech (ECE), **University of Lucknow**, Class of 2017
+- 🍳 Cooking enthusiast & a Cat Dad! 🐾
 
-<a target="_blank" href="https://www.linkedin.com/in/nadeemashraf06/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dev.nadeemashraf06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+---
 
+### 🧰 Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
+---
 
+### 📫 Let's Connect
 
+<p align="center">
+  <a href="mailto:dev.nadeemashraf06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadeemashraf06/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 
+---
+
+### 🧠 Fun Fact
+
+> I can debug spaghetti code and spaghetti recipes with equal efficiency 🍝🐱
+
+---
