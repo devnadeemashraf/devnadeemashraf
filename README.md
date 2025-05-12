@@ -16,7 +16,7 @@
 ### 👋 Hello, I'm Nadeem
 
 I'm a **Senior Software Engineer - Frontend** working remotely from India 🌏.  
-Currently focused on **Full Stack Engineering**, especially with **React**, **Tailwind**, **Express JS** and **TypeScript**, and always exploring ways to build scalable interfaces & applications.
+Currently focused on **Full Stack Engineering**, especially with **React**, **Tailwind**, **Express JS** and **TypeScript** and currently exploring **Go**, and always exploring ways to build scalable interfaces & applications.
 
 - 🛠️ Working with **3PLs, Carriers**, and modern logistics platforms
 - 📚 Always learning — right now diving deeper into **Design Systems** and **Frontend Architectures** along with **Backend Development**
