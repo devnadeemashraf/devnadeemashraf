@@ -1,4 +1,3 @@
-<!-- Profile Header Image -->
 <p align="center">
   <img src="https://github.com/devnadeemashraf/NadeemAsh/assets/67672184/d929c542-3f1b-4d90-8a3e-6896c59f3159" alt="Nadeem Ashraf Header" width="100%" />
 </p>
@@ -15,42 +14,53 @@
 
 ### 👋 Hello, I'm Nadeem
 
-I'm a **Software Engineer** working remotely from India 🌏.  
-Currently focused on **Full Stack Engineering**, especially with **React**, **Tailwind**, **Express JS** and **TypeScript** and currently exploring **Go**, and always exploring ways to build scalable interfaces & applications.
+I'm a **Senior Software Engineer** based in India 🌏, specializing in **Full Stack Architecture** and **Developer Tooling**.
 
-- 🛠️ Working with **3PLs, Carriers**, and modern logistics platforms
-- 📚 Always learning — right now diving deeper into **Design Systems** and **Frontend Architectures** along with **Backend Development**
-- 🧑‍🎓 B.Tech (ECE), **University of Lucknow**, Class of 2017
-- 🍳 Cooking enthusiast & a Cat Dad! 🐾
+I bridge the gap between complex backend logic and high-performance user interfaces. My work focuses on building scalable SaaS platforms, specifically within the **Logistics & Supply Chain** domain.
+
+- 🔭 **Currently Building:**
+  - A real-time collaborative coding platform (High-concurrency **Node.js/Redis** architecture).
+  - Open-source developer tools for environment management and schema validation.
+- 💻 **Core Focus:**
+  - **Backend:** Distributed systems with **Python (FastAPI)** and **Node.js**.
+  - **Frontend:** Design Systems and Component Libraries with **React** & **TypeScript**.
+- 🎓 **Background:** B.Tech (ECE), University of Lucknow.
+- ⚡ **Offline:** Cooking enthusiast & Cat Dad 🐾.
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ The Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="left">
+  <b>Languages & Core</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/GoLang-005AA2?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="left">
+  <b>Frontend & UI</b><br/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Backend & Infrastructure</b><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect
 
 <p align="center">
-  <a href="mailto:dev.nadeemashraf06@gmail.com">
+  <a href="mailto:official.nadeemashraf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/nadeemashraf06/">
@@ -63,5 +73,3 @@ Currently focused on **Full Stack Engineering**, especially with **React**, **Ta
 ### 🧠 Fun Fact
 
 > I can debug spaghetti code and spaghetti recipes with equal efficiency 🍝🐱
-
----
