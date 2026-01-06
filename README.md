@@ -14,15 +14,14 @@
 
 ### 👋 Hello, I'm Nadeem
 
-I'm a **Senior Software Engineer** based in India 🌏, specializing in **Full Stack Architecture** and **Developer Tooling**.
+I'm a **Software Engineer** based in India 🌏, specializing in **Full Stack Architecture**.
 
 I bridge the gap between complex backend logic and high-performance user interfaces. My work focuses on building scalable SaaS platforms, specifically within the **Logistics & Supply Chain** domain.
 
 - 🔭 **Currently Building:**
   - A real-time collaborative coding platform (High-concurrency **Node.js/Redis** architecture).
-  - Open-source developer tools for environment management and schema validation.
 - 💻 **Core Focus:**
-  - **Backend:** Distributed systems with **Python (FastAPI)** and **Node.js**.
+  - **Backend:** Backend systems with **Node.js (Express)** and **Python (FastAPI)**.
   - **Frontend:** Design Systems and Component Libraries with **React** & **TypeScript**.
 - 🎓 **Background:** B.Tech (ECE), University of Lucknow.
 - ⚡ **Offline:** Cooking enthusiast & Cat Dad 🐾.
